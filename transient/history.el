@@ -1,0 +1,1 @@
+((dirvish-subtree-menu nil))

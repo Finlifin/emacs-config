@@ -1,0 +1,7 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The patch step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+command (connected)=/nix/store/vnhl4zdy7igx9gd3q1d548vwzz15a9ma-cmake-3.27.7/bin/cmake;-Dcan_fetch=YES;-P;/home/fin/.emacs.d/elpa/vterm-20230417.424/build/libvterm-prefix/tmp/libvterm-gitupdate.cmake
+command (disconnected)=/nix/store/vnhl4zdy7igx9gd3q1d548vwzz15a9ma-cmake-3.27.7/bin/cmake;-Dcan_fetch=NO;-P;/home/fin/.emacs.d/elpa/vterm-20230417.424/build/libvterm-prefix/tmp/libvterm-gitupdate.cmake
+work_dir=/home/fin/.emacs.d/elpa/vterm-20230417.424/build/libvterm-prefix/src/libvterm
